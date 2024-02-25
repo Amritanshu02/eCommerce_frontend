@@ -33,13 +33,13 @@ export const categories = [
         id: 2,
         img: "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1675352559-best-loungewear-set-amazon-1675352544.png?crop=0.9902801600914809xw:1xh;center,top&resize=980:*",
         title: "LOUNGEWEAR LOVE",
-        cat: "coat"
+        cat: "jeans"
     },
     {
         id: 3,
         img: "https://m.media-amazon.com/images/I/71r8btOsbZS._UY879_.jpg",
         title: "LIGHT JACKETS",
-        cat: "jeans"
+        cat: "coat"
     },
 ];
 

@@ -71,7 +71,6 @@ const Login = () => {
                     <Button>LOGIN</Button>
                     <Link>DOESN'T REMEMBER THE PASSOWRD?</Link>
                     <Link>CREATE A NEW ACCOUNT</Link>
-
                 </Form>
             </Wrapper>
         </Container>

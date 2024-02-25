@@ -70,7 +70,7 @@ const ProductList = () => {
                         <Option>yellow</Option>
                         <Option>red</Option>
                         <Option>black</Option>
-                        <Option>blue</Option>
+                        <Option>gray</Option>
                         <Option>green</Option>
                     </Select>
 
